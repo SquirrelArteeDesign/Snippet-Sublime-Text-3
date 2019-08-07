@@ -20,7 +20,7 @@ Nesse snippter funcionará da seguinte maneira:
 
 O sistema funciona com tabs, depois de completar a etapa do nome da tag, é só paertar tab que vai diretamente para o nome da classe, e ao clicar pela terceira vez, irá para o conteúdo.
 
-Esse snippet é chamado digitante: section + tab  
+Esse snippet é chamado digitando: section + tab  
 
 
 
@@ -28,18 +28,18 @@ Esse snippet é chamado digitante: section + tab
 
 Esse snippet é com as principais tags do html5, e com complementos, já indo com o link da cdn do font-awesome, e algumas a mais, como as meta tags de SEO.
 
-Esse snippet é chamado digitante: html5 + tab
+Esse snippet é chamado digitando: html5 + tab
 
 # HTML 5 Comenter
 
 Nesse snippet é apenas para comentário, para não precisar ficar digitando para comentar, eu fiz esse, é só digitar o ponto de exclamação edar tag e já escrever o comentário.
 
-Esse snippet é chamado digitante: ! + tab
+Esse snippet é chamado digitando: ! + tab
 
 
 # PHP
 
 Esse snippet foi feito mais para agilizar na hora de começar um código php no meio do html, sem precisar ficar digitando os caracteres especiais para abri a tag dele, aqui é só digitar php em código html, ou no php mesmo, e ele abrirá a tag indo diretamente para o meio dela para adicionar conteúdo.
 
-Esse snippet é chamado digitante: php + tab
+Esse snippet é chamado digitando: php + tab
 
