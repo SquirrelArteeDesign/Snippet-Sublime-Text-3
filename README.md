@@ -6,7 +6,7 @@ Eu como qualquer programador precisa de agilidade na hora de digitar seu código
 como utilizo o sublime text 3, e vendo a necessidade no meu dia-a-dia, produzi alguns snipptes para agilizar na hora de codificar alguma página em html, php.
 
 
-# Auto Completar and Comenter
+# Auto Complete and Comenter
 
 Nesse snippter funcionará da seguinte maneira:
 
